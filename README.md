@@ -57,7 +57,7 @@ The app have the following functionalities:
     - When your choice and the opponent choice match, then the result will be `IT IS DRAW`
 
     </details>
-
+<details>
 - When the result is `YOU WON`, then the score should be incremented by one
 - When the result is `IT IS DRAW`, then there shouldn't be any change in the score
 - When the result is `YOU LOSE`, then the score should be decremented by one
