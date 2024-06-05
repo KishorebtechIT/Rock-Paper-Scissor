@@ -24,9 +24,6 @@ export const ScoreName = styled.h1`
   font-family: 'Roboto';
   margin-top: 0px;
   margin-bottom: 0px;
-  @media screen and (max-width: 576px) {
-    font-size: 14px;
-  }
 `
 export const ScoreBoard = styled(ScoreNameContainer)`
   background-color: white;
@@ -36,18 +33,12 @@ export const ScoreBoard = styled(ScoreNameContainer)`
   justify-content: center;
   align-items: center;
   align-self: center;
-  @media screen and (max-width: 576px) {
-    width: 25%;
-  }
 `
 export const ScoreHeading = styled.p`
   color: #223a5f;
   font-size: 20px;
   font-weight: 700;
   margin-bottom: 0px;
-  @media screen and (max-width: 576px) {
-    font-size: 16px;
-  }
 `
 export const ScoreResult = styled.p`
   color: #223a5f;
@@ -55,8 +46,5 @@ export const ScoreResult = styled.p`
   font-weight: 700;
   margin-top: 0px;
   font-family: 'Roboto';
-  @media screen and (max-width: 576px) {
-    font-size: 24px;
-    margin-top: 10px;
   }
 `
