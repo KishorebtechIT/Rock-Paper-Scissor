@@ -10,11 +10,11 @@ This repository contains code for rock,paper and scissors game in reactjs.
 <br/>
 
 Building and running on localhost
+
 First install dependencies:
-
 npm install
-To run in hot module reloading mode:
 
+To run in hot module reloading mode:
 npm start
 
 
